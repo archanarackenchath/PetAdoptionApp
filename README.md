@@ -4,6 +4,9 @@
 ## Overview
 The Pet Adoption App is a mobile application developed using Flutter that allows users to browse and adopt pets. The app provides a list of available pets with details such as name, type, age, and price. Users can search for pets by name, view pet details, and adopt pets they are interested in. The app also includes a history page to display the adoption history.
 
+## Screenshot
+![App Screenshot](/screenshot.jpeg)
+
 ## Features
 - Browse available pets
 - Search pets by name
